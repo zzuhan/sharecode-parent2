@@ -1,0 +1,3 @@
+[submodule "sharecode-shared"]
+	path = sharecode-shared
+	url = git@github.com:zzuhan/sharecode-shared.git
